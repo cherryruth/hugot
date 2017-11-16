@@ -1,0 +1,25 @@
+body{
+
+    margin: 0 auto;
+    
+}
+input[type=text]{
+    width: 75%;
+    padding: 100px 90px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: ;
+    color: block;
+}
+input[type=button]{
+    background-color: #808000;
+    border: none;
+    color: black;
+    padding:25px 15px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 50%
+}
